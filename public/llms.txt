@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+התחל את מסע הכושר שלך עם תוכנית אימונים מקוונת מותאמת אישית. מאמן כושר דיגיטלי מוביל בישראל מלווה אותך צעד אחר צעד להשגת התוצאות שחלמת עליהן.
+
+### תוכניות
+https://example.com/programs
+גלה את תוכנית האימונים המושלמת עבורך! תוכניות כושר מקוונות מותאמות אישית לכל רמה ומטרה. בחר את התוכנית שלך והתחל להשתנות עוד היום.
+
+### תוצאות
+https://example.com/results
+צפה בשינויים המרשימים שהשיגו הלקוחות שלנו! תוצאות אמיתיות של אנשים אמיתיים שהצליחו עם אימוני כושר אונליין. הסיפור שלך מתחיל כאן.
+
+### צור קשר
+https://example.com/contact
+מוכן לשינוי אמיתי? צור קשר עכשיו לייעוץ אישי ותגלה איך מאמן כושר דיגיטלי יכול לשנות את חייך. הצעד הראשון מתחיל בשיחה אחת.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
